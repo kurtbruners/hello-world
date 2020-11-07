@@ -7,7 +7,7 @@ pgadmin
 2. Rechtevergabe und Rollenverteilung der User
 3. Absicherung/Verschlüsselung der Datenbank
 (Python ODER pgadmin) 
-4. Erstellung von SQL Statements zur Datenauswertung 
+4. Erstellung von SQL Statements zur Datenauswertung per Python-Code
 5. Export in XML, Excel
 (6. Datenbank Doku)
 
