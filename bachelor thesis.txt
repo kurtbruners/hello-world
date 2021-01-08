@@ -10,6 +10,7 @@ pgadmin
 4. Erstellung von SQL Statements zur Datenauswertung per Python-Code
 5. Export in XML, Excel
 (6. Datenbank Doku)
+7. Fazit
 
 
 
